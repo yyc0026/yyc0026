@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-![header](https://capsule-render.vercel.app/api?color=blue&text=만나서_반갑습니다&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=만나서_반갑습니다&fontColor=d6ace6&fontSize=40&animation=fadeIn)
 
 
 - 🔭 I’m currently working on ...
