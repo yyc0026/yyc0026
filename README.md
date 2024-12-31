@@ -1,6 +1,6 @@
 ## Hi there
 
-<!--
+
 **yyc0026/yyc0026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,4 +25,3 @@ type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
