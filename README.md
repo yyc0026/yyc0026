@@ -1,6 +1,3 @@
-
-**yyc0026/yyc0026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 안녕하세요!
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=풀스택개발자%20꿈꾸는%20윤영찬입니다&fontColor=0000FF&fontSize=40&&fontAlignY=55&animation=blinking)
