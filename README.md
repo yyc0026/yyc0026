@@ -1,13 +1,13 @@
-## Hi there
-
 
 **yyc0026/yyc0026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+## 안녕하세요!
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=풀스택개발자%20꿈꾸는%20윤영찬입니다&fontColor=0000FF&fontSize=40&&fontAlignY=55&animation=blinking)
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Stay%20foolish%20stay%20hungry&fontSize=40&fontAlignY=45" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
