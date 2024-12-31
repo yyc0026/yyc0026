@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=만나서 반갑습니다%20윤영찬입니다.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=만나서 반갑습니다&animation=fadeIn)
 
 
 - 🔭 I’m currently working on ...
