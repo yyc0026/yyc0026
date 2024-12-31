@@ -2,7 +2,7 @@
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=풀스택개발자를%20꿈꾸는%20윤영찬입니다&fontColor=0000FF&fontSize=40&&fontAlignY=55&animation=blinking)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Stay%20foolish%20stay%20hungry&fontSize=40&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Stay%20hungry%20stay%20foolish&fontSize=40&fontAlignY=40" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
